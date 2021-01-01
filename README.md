@@ -50,7 +50,7 @@ Video examples:
 
 [![Video car robot w/o obstacles]()](hhttps://github.com/thoreauA/Obstacle-Avoidance-CarLike-Robot/raw/main/videos/videoSenzaOst.mp4)
 
-###Arduino libraries used 
+**Arduino libraries used** 
 
 - AFMotor.h
 - PinChangeInt.h
